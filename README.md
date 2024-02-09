@@ -1,5 +1,5 @@
-<!--
 - 👋 Hi, I’m @mdr171
+<!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -13,6 +13,7 @@ mdr171/mdr171 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<!--
 # Halo, Saya [Nama Anda]
 
 Selamat datang di profil GitHub saya! Saya adalah [profesi Anda atau minat utama Anda].
@@ -38,3 +39,4 @@ Berikut adalah beberapa proyek yang saya kerjakan:
 Jika Anda ingin berkomunikasi dengan saya, jangan ragu untuk mengirim pesan melalui [email](mailto:email_anda@gmail.com) atau melalui [LinkedIn](https://www.linkedin.com/in/nama-anda/).
 
 Terima kasih telah mengunjungi profil saya!
+--!>
