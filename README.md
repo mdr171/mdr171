@@ -5,27 +5,23 @@
 <br/>
 
 <div align="center">
-  
-  # Hi, I'm Maulana Decky Rakhman
-  **Machine Learning & Embedded Systems Enthusiast**
-  
-  *Passionate about building intelligent algorithms and engineering physical systems.*
-
+  <b><i>"Like converging Red and Blue to create Hollow Purple. I merge the infinite intelligence of AI with the physical reality of Hardware to build unstoppable creations."</i></b>
 </div>
 
 <br/>
 
 ## About Me
 
-I am a developer with a dual passion: **Data & Artificial Intelligence** (Machine Learning) and the **Physical World** (IoT & Robotics). I love the challenge of training intelligent models and the satisfaction of building hardware systems that interact with the real world. 
+**Hi, I'm Maulana Decky Rakhman!** 
+A **Machine Learning & Embedded Systems Engineer** wielding two contrasting powers: the infinite data processing of Machine Learning and the physical manipulation of IoT & Robotics. When combined, they create seamless, automated, and powerful systems.
 
-- **Informatics Graduate** & **Bangkit Academy 2023** (Machine Learning Cohort) Alumnus.
-- **Focus Areas:** Deep Learning, Generative AI, IoT Architecture, and Embedded Robotics.
-- **Currently Exploring:** AI Agents and integrating LLMs into automated workflows.
+- **Education:** Informatics Graduate & Bangkit Academy 2023 (Machine Learning Cohort) Alumnus.
+- **Core Focus:** Deep Learning, Generative AI, IoT Architecture, and Embedded Robotics.
+- **Current Interest:** AI Agents and integrating LLMs into automated physical workflows.
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack
 
 ### Software & Intelligence
 <p align="left">
