@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  # 👋 Hi, I'm Maulana Decky Rakhman
+  # Hi, I'm Maulana Decky Rakhman
   **Machine Learning & Embedded Systems Enthusiast**
   
   *Passionate about building intelligent algorithms and engineering physical systems.*
@@ -15,17 +15,17 @@
 
 <br/>
 
-## 🌟 About Me
+## About Me
 
 I am a developer with a dual passion: **Data & Artificial Intelligence** (Machine Learning) and the **Physical World** (IoT & Robotics). I love the challenge of training intelligent models and the satisfaction of building hardware systems that interact with the real world. 
 
-- 🎓 **Informatics Graduate** & **Bangkit Academy 2023** (Machine Learning Cohort) Alumnus.
-- 💡 **Focus Areas:** Deep Learning, Generative AI, IoT Architecture, and Embedded Robotics.
-- 🚀 **Currently Exploring:** AI Agents and integrating LLMs into automated workflows.
+- **Informatics Graduate** & **Bangkit Academy 2023** (Machine Learning Cohort) Alumnus.
+- **Focus Areas:** Deep Learning, Generative AI, IoT Architecture, and Embedded Robotics.
+- **Currently Exploring:** AI Agents and integrating LLMs into automated workflows.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Software & Intelligence
 <p align="left">
@@ -45,26 +45,26 @@ I am a developer with a dual passion: **Data & Artificial Intelligence** (Machin
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/mdr171/ambient-expense-agent">🤖 Ambient Expense Agent</a></b>
+      <b><a href="https://github.com/mdr171/ambient-expense-agent">Ambient Expense Agent</a></b>
       <p>An autonomous AI agent built during the Kaggle 5-Day Gen AI course. Tracks and manages expenses using the Gemini API.</p>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/mdr171/Autonomous-Hexapod-Search-and-Rescue-Robot-KRSRI-2023">🦿 Hexapod SAR Robot</a></b>
+      <b><a href="https://github.com/mdr171/Autonomous-Hexapod-Search-and-Rescue-Robot-KRSRI-2023">Hexapod SAR Robot</a></b>
       <p>An autonomous hexapod robot designed for the KRSRI 2023 national competition, featuring embedded C programming and path planning.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/mdr171/Automated-Water-Quality-Monitoring-System-IoT-Based">💧 Water Quality Monitoring</a></b>
+      <b><a href="https://github.com/mdr171/Automated-Water-Quality-Monitoring-System-IoT-Based">Water Quality Monitoring</a></b>
       <p>An automated IoT system to monitor water quality in real-time using sensors and programmatic logic.</p>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/mdr171/Smart-Aquarium-Monitoring-Control-System-IoT-Based">🐟 Smart Aquarium Control</a></b>
+      <b><a href="https://github.com/mdr171/Smart-Aquarium-Monitoring-Control-System-IoT-Based">Smart Aquarium Control</a></b>
       <p>A comprehensive real-time IoT monitoring system for aquariums, handling multiple sensor inputs and automation.</p>
     </td>
   </tr>
@@ -72,7 +72,7 @@ I am a developer with a dual passion: **Data & Artificial Intelligence** (Machin
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdr171&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
