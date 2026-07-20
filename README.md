@@ -5,19 +5,19 @@
 <br/>
 
 <div align="center">
-  <b><i>"Like converging Red and Blue to create Hollow Purple. I merge the infinite intelligence of AI with the physical reality of Hardware to build unstoppable creations."</i></b>
+  <b><i>"Driven by a dual passion: exploring the intelligence of Machine Learning algorithms and engineering the mechanics of Embedded Systems."</i></b>
 </div>
 
 <br/>
 
 ## About Me
 
-**Hi, I'm Maulana Decky Rakhman!** 
-A **Machine Learning & Embedded Systems Engineer** wielding two contrasting powers: the infinite data processing of Machine Learning and the physical manipulation of IoT & Robotics. When combined, they create seamless, automated, and powerful systems.
+**Hi, I'm Maulana Decky Rakhman.** 
+I am a developer with a deep interest in two distinct fields: **Machine Learning** and **Embedded Systems**. Whether I'm training predictive models to analyze data or writing low-level code to bring hardware to life, I enjoy the unique challenges that both software intelligence and physical engineering provide.
 
 - **Education:** Informatics Graduate & Bangkit Academy 2023 (Machine Learning Cohort) Alumnus.
-- **Core Focus:** Deep Learning, Generative AI, IoT Architecture, and Embedded Robotics.
-- **Current Interest:** AI Agents and integrating LLMs into automated physical workflows.
+- **Machine Learning Focus:** Deep Learning, Generative AI, and Data Analytics.
+- **Embedded Systems Focus:** IoT Architecture, Sensor Integration, and Robotics.
 
 ---
 
