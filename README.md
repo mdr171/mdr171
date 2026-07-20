@@ -9,7 +9,7 @@
   # 👋 Hi, I'm Maulana Decky Rakhman
   **Machine Learning & Embedded Systems Enthusiast**
   
-  *Bridging the gap between software intelligence and physical hardware.*
+  *Passionate about building intelligent algorithms and engineering physical systems.*
 
 </div>
 
@@ -50,25 +50,21 @@ I am a developer with a dual passion: **Data & Artificial Intelligence** (Machin
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Intelligence (ML/AI)</h3>
-      <br>
-      <b><a href="https://github.com/mdr171/ambient-expense-agent">Ambient Expense Agent</a></b>
+      <b><a href="https://github.com/mdr171/ambient-expense-agent">🤖 Ambient Expense Agent</a></b>
       <p>An autonomous AI agent built during the Kaggle 5-Day Gen AI course. Tracks and manages expenses using the Gemini API.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Physical (IoT/Robotics)</h3>
-      <br>
-      <b><a href="https://github.com/mdr171/Autonomous-Hexapod-Search-and-Rescue-Robot-KRSRI-2023">Hexapod SAR Robot</a></b>
+      <b><a href="https://github.com/mdr171/Autonomous-Hexapod-Search-and-Rescue-Robot-KRSRI-2023">🦿 Hexapod SAR Robot</a></b>
       <p>An autonomous hexapod robot designed for the KRSRI 2023 national competition, featuring embedded C programming and path planning.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/mdr171/Automated-Water-Quality-Monitoring-System-IoT-Based">Water Quality Prediction</a></b>
-      <p>An automated classification system to monitor and predict water quality, combining sensor data with programmatic logic.</p>
+      <b><a href="https://github.com/mdr171/Automated-Water-Quality-Monitoring-System-IoT-Based">💧 Water Quality Monitoring</a></b>
+      <p>An automated IoT system to monitor water quality in real-time using sensors and programmatic logic.</p>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/mdr171/Smart-Aquarium-Monitoring-Control-System-IoT-Based">Smart Aquarium Monitoring</a></b>
+      <b><a href="https://github.com/mdr171/Smart-Aquarium-Monitoring-Control-System-IoT-Based">🐟 Smart Aquarium Control</a></b>
       <p>A comprehensive real-time IoT monitoring system for aquariums, handling multiple sensor inputs and automation.</p>
     </td>
   </tr>
@@ -79,8 +75,8 @@ I am a developer with a dual passion: **Data & Artificial Intelligence** (Machin
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdr171&show_icons=true&bg_color=0d1117&title_color=7e57c2&icon_color=7e57c2&text_color=c9d1d9&hide_border=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr171&layout=compact&bg_color=0d1117&title_color=7e57c2&text_color=c9d1d9&hide_border=true&theme=transparent" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdr171&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr171&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
 </div>
 
 <br/>
