@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://github.com/mdr171/mdr171/raw/main/banner.mp4" autoplay loop muted playsinline width="100%"></video>
+  <img src="https://raw.githubusercontent.com/mdr171/mdr171/main/banner.png" width="100%" alt="Banner" />
 </div>
 
 <br/>
