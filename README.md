@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <b><i>"Driven by a dual passion: exploring the intelligence of Machine Learning algorithms and engineering the mechanics of Embedded Systems."</i></b>
+  <b><i>"Teaching machines to learn by day, tinkering with hardware by night."</i></b>
 </div>
 
 <br/>
@@ -13,17 +13,18 @@
 ## About Me
 
 **Hi, I'm Maulana Decky Rakhman.** 
-I am a developer with a deep interest in two distinct fields: **Machine Learning** and **Embedded Systems**. Whether I'm training predictive models to analyze data or writing low-level code to bring hardware to life, I enjoy the unique challenges that both software intelligence and physical engineering provide.
+I am a **Machine Learning Engineer** with a strong foundation in Deep Learning, Generative AI, and Data Analytics. As an Informatics graduate (S.Kom) and Bangkit Academy Alumnus, I specialize in training intelligent models and building AI-driven solutions. 
 
-- **Education:** Informatics Graduate & Bangkit Academy 2023 (Machine Learning Cohort) Alumnus.
-- **Machine Learning Focus:** Deep Learning, Generative AI, and Data Analytics.
-- **Embedded Systems Focus:** IoT Architecture, Sensor Integration, and Robotics.
+Outside of my core work in Artificial Intelligence, I am an avid hobbyist in IoT and Robotics, where I enjoy writing code to control physical hardware and bring automated systems to life.
+
+- **Primary Focus:** Deep Learning, Large Language Models (LLMs), and AI Agents.
+- **Hobbyist Interests:** Microcontroller Programming (Arduino/ESP32) and Sensor Integration.
 
 ---
 
 ## Tech Stack
 
-### Software & Intelligence
+### Core (Machine Learning & Data)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -31,7 +32,7 @@ I am a developer with a deep interest in two distinct fields: **Machine Learning
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-### Hardware & Embedded
+### Hobby (Hardware & Embedded)
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
