@@ -70,10 +70,14 @@ I am a developer with a deep interest in two distinct fields: **Machine Learning
 
 ## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdr171&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr171&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/mdr171">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdr171&show_icons=true&theme=transparent" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mdr171">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr171&layout=compact&theme=transparent" height="165" alt="Top Languages" />
+  </a>
+</p>
 
 <br/>
 
