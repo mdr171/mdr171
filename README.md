@@ -5,7 +5,9 @@
 <br/>
 
 <div align="center">
-  <b><i>"Teaching machines to learn by day, tinkering with hardware by night."</i></b>
+  <b><i>"AI is the new electricity. Just as electricity transformed almost every major industry 100 years ago, AI will do the same."</i></b>
+  <br>
+  <sub>— <b>Andrew Ng</b></sub>
 </div>
 
 <br/>
